@@ -9,6 +9,6 @@
   },
   "devDependencies": {
     "html-validator-cli": "^7.0.1",
-    "pa11y-ci": "^6.0.0"
+    "pa11y-ci": "^4.1.1"
   }
 }
