@@ -1,0 +1,14 @@
+{
+  "name": "trio-tales-adventures",
+  "version": "1.0.0",
+  "description": "A family travel landing page for Trio Tales Adventures.",
+  "private": true,
+  "scripts": {
+    "validate": "npx html-validator-cli --file=index.html --verbose",
+    "accessibility": "npx pa11y-ci --config .pa11yci.json"
+  },
+  "devDependencies": {
+    "html-validator-cli": "^0.25.0",
+    "pa11y-ci": "^6.0.0"
+  }
+}
