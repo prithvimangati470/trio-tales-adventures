@@ -1,6 +1,6 @@
-# Trio Tales Adventures
+# PSA Diaries
 
-This project is now named `Trio Tales Adventures` and is ready to be checked in to GitHub and deployed to Netlify.
+This project is now named `PSA Diaries` and is ready to be checked in to GitHub and deployed to Netlify.
 
 Applied quick accessibility, SEO and robustness fixes to `index.html`:
 
@@ -44,17 +44,17 @@ Notes:
 
 ## Deploying to GitHub + Netlify
 
-Recommended GitHub repo name: `trio-tales-adventures`
+Recommended GitHub repo name: `psa-diaries`
 
 1. Initialize git:
    ```bash
    git init
    git add .
-   git commit -m "Rename project to Trio Tales Adventures and add Netlify/GitHub config"
+   git commit -m "Rename project to PSA Diaries and add Netlify/GitHub config"
    ```
 2. Add your GitHub remote and push:
    ```bash
-   git remote add origin git@github.com:youruser/trio-tales-adventures.git
+   git remote add origin git@github.com:youruser/psa-diaries.git
    git branch -M main
    git push -u origin main
    ```

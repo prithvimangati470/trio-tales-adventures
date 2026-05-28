@@ -1,7 +1,7 @@
 {
-  "name": "trio-tales-adventures",
+  "name": "psa-diaries",
   "version": "1.0.0",
-  "description": "A family travel landing page for Trio Tales Adventures.",
+  "description": "A family travel landing page for PSA Diaries.",
   "private": true,
   "scripts": {
     "validate": "npx html-validator-cli --file=index.html --verbose",
